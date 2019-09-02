@@ -20,8 +20,11 @@ Project Camp is a web application for Project management, CRM, Customer support 
 - Calendar
 - Quick shortcuts
 
+## Demo
+
+Give a try to our fantastic application here: https://pc-demo.thewebfosters.com/login
+
 ## RoadMap
-- Public demo
 - Documentation
 - Releasing pro version
 
