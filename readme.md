@@ -1,4 +1,4 @@
-## About Laravel
+## About Project Camp
 
 Project Camp is a web application for Project management, CRM, Customer support & Invoicing. Developed using Laravel PHP framework, Vuetify VueJS
 
@@ -27,7 +27,7 @@ Project Camp is a web application for Project management, CRM, Customer support 
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Nikhil Agrawal via [nikhila@thewebfosters.com](mailto:nikhila@thewebfosters.com). All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within project camp, please send an e-mail to Nikhil Agrawal via [nikhila@thewebfosters.com](mailto:nikhila@thewebfosters.com). All security vulnerabilities will be promptly addressed.
 
 ## License
 
