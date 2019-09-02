@@ -1,0 +1,107 @@
+@import "variables";
+@import "dropzone";
+
+/* general */
+a {
+  text-decoration: none;
+}
+.bg_half_transparent {
+  background: rgba($loader-bg-color, $loader-bg-transparency);
+}
+.wask_loader {
+  padding: 150px 0;
+  position: fixed;
+  z-index: 501;
+  border: 0;
+  width: 100%;
+  left: 0;
+  top: 0;
+  bottom: 0;
+}
+.wask_loader > div.v-spinner > div {
+  margin: 0 auto;
+}
+.permissions_container {
+  padding: 10px;
+}
+.fade-enter-active, .fade-leave-active {
+  transition-property: opacity;
+  transition-duration: .25s;
+}
+.fade-enter-active {
+  transition-delay: .25s;
+}
+.fade-enter, .fade-leave-active {
+  opacity: 0
+}
+.breadcrumbs li a {
+  text-decoration: none;
+  color: $menu-text-color;
+}
+
+/* pre-defined */
+.wask_td_action {
+  min-width: 150px;
+}
+
+/* override */
+#admin .snack {
+  z-index: 500 !important;
+}
+
+/* Dropzone */
+.dropzone {
+  background: #dcdcdc;
+  border: 1px dashed #eaeaea;
+}
+.dropzone .dz-preview.dz-image-preview {
+    background: none;
+}
+
+/* task show*/
+#task_description {
+    width:100%;
+    max-height: 250px;
+    overflow: auto;
+}
+
+/*project-overview */
+#project_info {
+    white-space:pre-line;
+}
+
+.v-calendar-weekly__day, .v-calendar-daily_head-day{
+  overflow-y: auto !important;
+}
+
+#v_date_range{
+  width: 274px;
+}
+
+.flat_picker_label {
+  left: 0px;
+  right: auto;
+  position: absolute;
+}
+
+::-webkit-scrollbar-track
+{
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+    border-radius: 10px;
+    background-color: #F5F5F5;
+}
+
+::-webkit-scrollbar
+{
+    width: 12px;
+    background-color: #F5F5F5;
+    border-radius: 15px;
+    height: 8px;
+}
+
+::-webkit-scrollbar-thumb
+{
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+    background-color: #C1C1C1;
+}
