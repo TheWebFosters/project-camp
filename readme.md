@@ -5,7 +5,7 @@ Project Camp is a web application for Project management, CRM, Customer support 
 ## Key Features
 
 - Admin, Employee, Customers login
-- Employees Management: Create different roles with permissions, assing to employee
+- Employees Management: Create different roles with permissions that can be assigned to employees.
 - Customer Management: Add/Edit/Delete customer, customer's contacts, document & notes, ledger, customer login
 - Leads management: Lead source, customizable leads statuses, leads to customer, document & notes, reminders
 - Project Management: Add/Edit/Delete projects, category, link to customer (optional), status, team members, start/end date, Activity
