@@ -390,7 +390,7 @@ return [
     'tooltip_final_amount' => 'Betrag X Umrechnungskurs',
     'tooltip_conversion_rate' => '1 Kundenwährung = ? Firmenwährung',
     'paid_invoices_in_business_currency' => 'BEZAHLTE RECHNUNGEN IN FIRMENWÄHRUNG',
-    'customer_account_ledger' => 'Kunden-Kontobuch'
+    'customer_account_ledger' => 'Kunden-Kontobuch',
     'customer_statement' => 'Kundenangabe für :customer',
     'to' => 'An',
     'account_summary' => 'Kontoübersicht',
