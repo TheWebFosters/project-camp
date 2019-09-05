@@ -53,7 +53,6 @@ class CustomerTest extends TestCase
                 'country' => 'United States',
             ]);
 
-        // Customers are soft deleted, so verify customer still exists with a deleted_at value.
         $this->assertDatabaseHas('customers', [
             'company' => 'My New Company 123',
             'mobile' => '999-555-3333',
