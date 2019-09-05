@@ -39,7 +39,9 @@ class CreateUsersTable extends Migration
             $table->string('branch_location')->nullable();
             $table->string('tax_payer_id')->nullable();
             $table->text('note')->nullable();
-            $table->string('password');
+            $table->string('password')->nullable();
+
+            $table->longText('sticky_notes')->nullable();
 
             $table->integer('created_by')->nullable();
 
