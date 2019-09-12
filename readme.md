@@ -22,7 +22,7 @@ Project Camp is a web application for Project management, CRM, Customer support 
 
 ## Demo
 
-Give a try to our fantastic application here: https://pc-demo.thewebfosters.com/login
+Give a try to our fantastic application here: https://demo.myprojectcamp.com/login
 
 ## Contributions
 Contributions are **welcome** and will be fully **credited**.
