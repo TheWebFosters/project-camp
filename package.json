@@ -11,7 +11,7 @@
     "format": "prettier --write 'resources/**/*.{css,js,vue}'"
   },
   "devDependencies": {
-    "axios": "^0.17.1",
+    "axios": "^0.21.1",
     "bootstrap-sass": "^3.3.7",
     "cross-env": "^5.0.1",
     "jquery": "^3.1.1",
