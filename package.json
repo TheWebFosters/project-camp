@@ -15,11 +15,11 @@
     "bootstrap-sass": "^3.3.7",
     "cross-env": "^5.0.1",
     "jquery": "^3.1.1",
-    "laravel-mix": "^2.1",
+    "laravel-mix": "^6.0",
     "lodash": "^4.17.4",
     "prettier": "1.16.4",
     "stylus": "^0.54.5",
-    "stylus-loader": "^3.0.2",
+    "stylus-loader": "^7.1.0",
     "vue": "^2.6"
   },
   "dependencies": {
